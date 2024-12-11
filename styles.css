@@ -1,0 +1,12 @@
+.main {
+    background-color: bisque;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(182, 55, 16);
+}
+
+.carbo, .perlo {
+    background-color: hsl(100, 80%, 80%)
+}
